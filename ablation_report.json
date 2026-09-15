@@ -1,0 +1,6 @@
+{
+  "auc_tabular_only": 0.6442,
+  "auc_tabular_plus_actigraphy": 0.7002,
+  "actigraphy_auc_lift_pct": 8.69,
+  "meets_8pct_lift_target": true
+}

@@ -1,0 +1,54 @@
+{
+  "overall": {
+    "auc": 0.699,
+    "selection_rate": 0.2,
+    "n": 4200
+  },
+  "sex": {
+    "F": {
+      "auc": 0.6945,
+      "selection_rate": 0.2039,
+      "n": 2099
+    },
+    "M": {
+      "auc": 0.7035,
+      "selection_rate": 0.1961,
+      "n": 2101
+    }
+  },
+  "age_band": {
+    "65-72": {
+      "auc": 0.6964,
+      "selection_rate": 0.129,
+      "n": 1543
+    },
+    "73-80": {
+      "auc": 0.6909,
+      "selection_rate": 0.2162,
+      "n": 1998
+    },
+    "81+": {
+      "auc": 0.6944,
+      "selection_rate": 0.3171,
+      "n": 659
+    }
+  },
+  "frailty_tercile": {
+    "low": {
+      "auc": 0.6078,
+      "selection_rate": 0.0418,
+      "n": 1410
+    },
+    "mid": {
+      "auc": 0.6781,
+      "selection_rate": 0.1461,
+      "n": 1396
+    },
+    "high": {
+      "auc": 0.6827,
+      "selection_rate": 0.4139,
+      "n": 1394
+    }
+  },
+  "fairness_gap_max_minus_min_auc": 0.0957
+}

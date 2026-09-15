@@ -1,0 +1,14 @@
+{
+  "cv_auc_roc_mean": 0.7002,
+  "cv_auc_roc_folds": [
+    0.7225,
+    0.6932,
+    0.673,
+    0.6913,
+    0.7209
+  ],
+  "top20pct_threshold": 0.6142,
+  "precision_at_top20pct": 0.5,
+  "n_episodes": 4200,
+  "pod_incidence": 0.2621
+}
